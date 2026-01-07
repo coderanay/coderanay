@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vinay and I'm an Aspiring Full Stack Developer from Bhopal</h2>
+<h2 align="left">Hi 👋! My name is Vinay and I'm a Full Stack Developer</h2>
 
 ###
 
@@ -54,7 +54,4 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/coderanay/coderanay/output/snake.svg" alt="Snake animation"/>
 
